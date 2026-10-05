@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ReviewOrchestrator.Api/ReviewOrchestrator.Api.csproj" />
+    <Project Path="src/ReviewOrchestrator.Core/ReviewOrchestrator.Core.csproj" />
+    <Project Path="src/ReviewOrchestrator.Infrastructure/ReviewOrchestrator.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ReviewOrchestrator.Core.Tests/ReviewOrchestrator.Core.Tests.csproj" />
+  </Folder>
+</Solution>
