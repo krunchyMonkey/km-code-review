@@ -8,3 +8,12 @@ obj/
 node_modules/
 dist/
 TestResults/
+
+# Local credentials and development secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
